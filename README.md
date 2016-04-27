@@ -8,7 +8,7 @@ A list of resources of newspapers and related stuff regarding development
 * [20 min](http://www.20min.ch/)
 * [Watson](http://www.watson.ch/) 
 * ---
-* [The Guardian](http://www.theguardian.com/) / [dev blog](https://www.theguardian.com/info/developer-blog)
+* [The Guardian](http://www.theguardian.com/) ([dev blog](https://www.theguardian.com/info/developer-blog))
 * [NY Times](http://www.nytimes.com/)
 * [Vox Media](http://www.voxmedia.com/)
 * [BBC](http://www.bbc.com/)
