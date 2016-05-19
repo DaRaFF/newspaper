@@ -21,3 +21,6 @@ A list of resources of newspapers and related stuff regarding development
 * http://nytimes.tematroinoi.com/
 * http://www.davidbauer.ch/2013/10/20/an-unfinished-list-of-ventures-in-journalism-you-should-be-watching-and-why/
 
+**Other**
+* [Frontend Metrics from big news sites around the world](https://isellsoap.github.io/front-end-side-of-news/)
+
